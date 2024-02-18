@@ -13,3 +13,4 @@
 * (IS NULL) 이름이 있는 동물의 아이디
 * (IS NULL) NULL 처리하기
 * (IS NULL) 나이 정보가 없는 회원 수 구하기
+* (IS NULL) ROOT 아이템 구하기
